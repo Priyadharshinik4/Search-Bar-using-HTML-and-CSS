@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.seachbar{
+    border: 1px solid rgb(172, 171, 171);
+    width: 18rem;
+    height: 40px;
+    position: absolute;
+    top: 5rem;
+    left: 31rem;
+    padding: 20px;
+    background-color:  rgb(172, 171, 171);
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 4px 4px rgb(172, 171, 171);;
+}
+tr td input{
+    width: 14rem;
+    height: 30px;
+}
+tr td i{
+    border: 1px solid  rgb(128, 126, 126);
+    background-color: rgb(128, 126, 126);
+    height: 25px;
+    width: 30px;
+    text-align: center;
+    margin-left: 0px;
+    padding-top: 9px;
+
+    
+}
