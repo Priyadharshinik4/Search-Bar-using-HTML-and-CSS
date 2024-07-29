@@ -1,2 +1,2 @@
 # Search-Bar
-Created a Search Bar using HTML and CSS
+This repository demonstrates how to create a simple and stylish search bar using HTML and CSS.
